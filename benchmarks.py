@@ -24,8 +24,6 @@ Requirements:
 
 Usage:
     $ python benchmarks.py --weights yolov5s.pt --img 640
-
-    hello
 """
 
 import argparse
